@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BishwaJit</h1>
 
 <div align="center">
-<img src="https://scontent.fcgp27-1.fna.fbcdn.net/v/t1.6435-9/104540495_267635314316068_3528222051780344239_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=100&ccb=1-7&_nc_sid=a4a2d7&_nc_eui2=AeH7fkfzPcCyjctoH3RCzOkY_OWb5oAerDb85ZvmgB6sNopYmFgX_aWYeBqOTbbulmyCZYnwTS-TR50hs0TXqr7u&_nc_ohc=oi9q7OVCtf4AX_WBHFd&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfAGgRiqzbKdNOsL5ugskzUTizjllszSKa93M3mmnB3DOA&oe=63D64D7E" align="center" style="width: 70%" />
+<img src="https://avatars.githubusercontent.com/u/121635163?v=4" align="center" style=" border-radius: 50%;" />
 </div>  
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
